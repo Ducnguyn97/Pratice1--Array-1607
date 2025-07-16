@@ -10,11 +10,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Averange/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Averange/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài1/p1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài1/p1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài 2/p2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài 2/p2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../danhsach.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demoHTML.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" />
@@ -80,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752629763538</updated>
-      <workItem from="1752629764559" duration="2827000" />
+      <workItem from="1752629764559" duration="4213000" />
     </task>
     <servers />
   </component>
