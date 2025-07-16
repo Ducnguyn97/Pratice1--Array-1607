@@ -8,4 +8,4 @@ while (first < last){
     first++;
     last--;
 }
-document.write(arr)
+document.write(arr);
